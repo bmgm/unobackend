@@ -1,0 +1,14 @@
+{
+  "name": "unobackend",
+  "version": "1.0.0",
+  "description": "this is the first big backend project",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "keywords": [
+    "backend"
+  ],
+  "author": "Mangesh",
+  "license": "ISC"
+}
