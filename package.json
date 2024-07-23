@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "this is the first big backend project",
   "main": "index.js",
+  "type":"module",
   "scripts": {
     "dev": "node index.js"
   },
@@ -10,5 +11,8 @@
     "backend"
   ],
   "author": "Mangesh",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
 }
